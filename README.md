@@ -3,7 +3,7 @@
 > KYK yurtlarında kalan üniversite öğrencileri için günlük yemek takip uygulaması.
 
 <p align="center">
-  <img src="Screenshots/home.png" alt="Menü 81 Ana Ekran" width="300"/>
+  <img src="Menu81/Screenshots/home.png" alt="Menü 81 Ana Ekran" width="300"/>
 </p>
 
 ---
