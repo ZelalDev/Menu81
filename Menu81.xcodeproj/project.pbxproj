@@ -75,10 +75,10 @@
 		B20B197F2F6D81AF00E3C8FC = {
 			isa = PBXGroup;
 			children = (
-				B20B198A2F6D81AF00E3C8FC /* Menu81 */,
 				B20B19982F6D81B000E3C8FC /* Menu81Tests */,
 				B20B19A22F6D81B000E3C8FC /* Menu81UITests */,
 				B20B19892F6D81AF00E3C8FC /* Products */,
+				B20B198A2F6D81AF00E3C8FC /* Menu81 */,
 			);
 			sourceTree = "<group>";
 		};

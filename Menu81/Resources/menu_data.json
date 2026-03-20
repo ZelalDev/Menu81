@@ -1,0 +1,133 @@
+{
+  "menus": [
+    {
+      "date": "2025-06-09",
+      "breakfast": {
+        "items": [
+          "Beyaz Peynir",
+          "Zeytin",
+          "Domates & Salatalık",
+          "Tereyağı",
+          "Reçel",
+          "Haşlanmış Yumurta",
+          "Simit",
+          "Çay"
+        ],
+        "calories": 480
+      },
+      "dinner": {
+        "items": [
+          "Mercimek Çorbası",
+          "Tavuk Sote",
+          "Bulgur Pilavı",
+          "Cacık",
+          "Ekmek"
+        ],
+        "calories": 720
+      },
+      "totalCalories": 1200
+    },
+    {
+      "date": "2025-06-10",
+      "breakfast": {
+        "items": [
+          "Kaşar Peyniri",
+          "Bal",
+          "Domates & Biber",
+          "Tereyağı",
+          "Gözleme",
+          "Çay"
+        ],
+        "calories": 510
+      },
+      "dinner": {
+        "items": [
+          "Ezogelin Çorbası",
+          "Kuru Fasulye",
+          "Pirinç Pilavı",
+          "Turşu",
+          "Sütlaç",
+          "Ekmek"
+        ],
+        "calories": 810
+      },
+      "totalCalories": 1320
+    },
+    {
+      "date": "2025-06-11",
+      "breakfast": {
+        "items": [
+          "Beyaz Peynir",
+          "Siyah Zeytin",
+          "Salatalık",
+          "Bal & Kaymak",
+          "Menemen",
+          "Çay"
+        ],
+        "calories": 530
+      },
+      "dinner": {
+        "items": [
+          "Yayla Çorbası",
+          "Izgara Köfte",
+          "Patates Kızartması",
+          "Mevsim Salatası",
+          "Ekmek"
+        ],
+        "calories": 870
+      },
+      "totalCalories": 1400
+    },
+    {
+      "date": "2025-06-12",
+      "breakfast": {
+        "items": [
+          "Lor Peyniri",
+          "Yeşil Zeytin",
+          "Domates",
+          "Tereyağı",
+          "Haşlanmış Yumurta",
+          "Poğaça",
+          "Çay"
+        ],
+        "calories": 495
+      },
+      "dinner": {
+        "items": [
+          "Domates Çorbası",
+          "Etli Nohut",
+          "Şehriyeli Pirinç",
+          "Ayran",
+          "Ekmek"
+        ],
+        "calories": 790
+      },
+      "totalCalories": 1285
+    },
+    {
+      "date": "2025-06-13",
+      "breakfast": {
+        "items": [
+          "Çedar Peyniri",
+          "Zeytin",
+          "Söğüş",
+          "Tereyağı",
+          "Reçel",
+          "Omlet",
+          "Çay"
+        ],
+        "calories": 520
+      },
+      "dinner": {
+        "items": [
+          "Sebze Çorbası",
+          "Tavuklu Makarna",
+          "Çoban Salatası",
+          "Ekmek"
+        ],
+        "calories": 740
+      },
+      "totalCalories": 1260
+    }
+  ]
+}
